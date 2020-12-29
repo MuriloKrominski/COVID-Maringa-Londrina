@@ -1,4 +1,4 @@
-<img align="center" width="100" src="https://raw.githubusercontent.com/MuriloKrominski/COVID-Maringa/main/Imagens/link.png"> <h1>COVID-Maringá</h1>
+<img align="center" width="100" src="https://raw.githubusercontent.com/MuriloKrominski/COVID-Maringa/main/Imagens/link.png"> <h1>COVID - Maringá & Londrina</h1>
 
 Em janeiro de 2021, retornarei ao Brasil após um período de desenvolvimento pessoal e profissional na Europa.<br>
 Ainda estou a me decidir quanto a cidade em que pretendo viver, e já tenha duas cidades a encabeçar minha lista de cidades pretendidas; as cidades de Maringá e de Londrina, ambas no Estado do Parana.<br>
