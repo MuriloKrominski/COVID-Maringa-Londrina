@@ -1,4 +1,4 @@
-<img align="center" width="100" src="https://raw.githubusercontent.com/MuriloKrominski/COVID-Maringa/main/Imagens/link.png"> <h1>COVID - Maringá & Londrina</h1>
+<img align="center" width="100" src="https://raw.githubusercontent.com/MuriloKrominski/COVID-Maringa-Londrina/main/Imagens/link.png"> <h1>COVID - Maringá & Londrina</h1>
 
 Em janeiro de 2021, retornarei ao Brasil após um período de desenvolvimento pessoal e profissional na Europa.<br>
 Ainda estou a me decidir quanto a cidade em que pretendo viver, e já tenha duas cidades a encabeçar minha lista de cidades pretendidas; as cidades de Maringá e de Londrina, ambas no Estado do Parana.<br>
@@ -16,11 +16,11 @@ ATENÇÃO:
 ```
 
 # Animação Gráfica:
-<a href="https://flo.uri.sh/visualisation/4802203/embed" target="_parent"><img src="https://raw.githubusercontent.com/MuriloKrominski/COVID-Maringa/main/Imagens/link_graficoanimado.png" alt="Gráfico Animado"/><br>
+<a href="https://flo.uri.sh/visualisation/4802203/embed" target="_parent"><img src="https://raw.githubusercontent.com/MuriloKrominski/COVID-Maringa-Londrina/main/Imagens/link_graficoanimado.png" alt="Gráfico Animado"/><br>
 Clique na imagem para ver a animação gráfica.</a><br> 
 
 # Colaboratory:
-<a href="https://colab.research.google.com/github/MuriloKrominski/COVID-Maringa/blob/main/COVID-Maringa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/COVID-Maringa-Londrina/blob/main/COVID-Maringa-Londrina.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab"/></a><br>
 
 # Dados:
 ```python
